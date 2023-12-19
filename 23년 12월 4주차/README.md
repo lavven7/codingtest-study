@@ -9,3 +9,4 @@
 | 화   | 이진탐색 | [숫자카드](https://www.acmicpc.net/problem/10815)      |
 | 수   | BFS      | [촌수계산](https://www.acmicpc.net/problem/2644)      |
 | 목   | 정렬     | [시리얼 번호](https://www.acmicpc.net/problem/1431)   |
+| 금   | DFS     | [섬의 개수](https://www.acmicpc.net/problem/4963)   |
